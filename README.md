@@ -40,7 +40,7 @@ A responsive, real-time **Currency Converter** web application built using **HTM
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Sarvagya45/currency-converter.git
 2. Open index.html in your browser
 That’s it! No build tools required
 
